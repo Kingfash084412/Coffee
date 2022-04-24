@@ -1,2 +1,3 @@
 # Coffee
 Introduction This simple project is a Coffee Shop Cashiering System. This is a web-based application project developed in PHP and MySQL Database. This project provides an automated platform for Coffee Shop businesses where they can manage their daily sales transaction more efficiently and effectively. The application allows the user to store, manage, and retrieve the sales transactions of the said business. This was developed with a pleasant user interface using the Bootstrap Framework and AdminLTE Template. It consists of user-friendly features and functionalities.
+[cscs.zip](https://github.com/Kingfash084412/Coffee/files/8550301/cscs.zip)
